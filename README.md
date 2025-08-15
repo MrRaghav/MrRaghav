@@ -31,11 +31,11 @@ Data Mining: KDD
 
 Industries for which I have worked: #Retail, #FMCG, Telecom, Insurance, and Hotel (for limited period)
 
-[1] Medium.com - https://medium.com/@MrRaghav
+[1] Medium.com - https://medium.com/@raghvendra-pratap-singh
 
 [2] #HackerRank - https://www.hackerrank.com/raghavs1003
 
-[3] #StackOverflow - https://stackoverflow.com/users/10406601/mrraghav
+[3] #StackOverflow - https://stackoverflow.com/users/10406601/raghav
 
 Feel free contact me; to find out how can I help in the growth of your organization!
 
